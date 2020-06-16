@@ -1,0 +1,21 @@
+{
+  "name": "nodewithsql",
+  "version": "1.0.0",
+  "description": "A node js restful api with sql server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "a",
+    "node",
+    "js",
+    "restful",
+    "api"
+  ],
+  "author": "Muhammad Mashood Siddiquie",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^6.2.0"
+  }
+}
